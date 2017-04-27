@@ -4,6 +4,9 @@
 	"downstream": [
 		{
 			"name": "Crystal"
+		},
+		{
+			"name": "Streams"
 		}
 	]
 }
