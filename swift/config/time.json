@@ -1,0 +1,12 @@
+{
+	"name": "time",
+	"source": "https://github.com/randymarsh77/time",
+	"downstream": [
+		{
+			"name": "Sockets",
+			"build": {
+				"travis": "randymarsh77/sockets"
+			}
+		}
+	]
+}
