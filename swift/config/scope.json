@@ -1,0 +1,10 @@
+{
+	"name": "scope",
+	"source": "https://github.com/randymarsh77/scope",
+	"downstream": [
+		{
+			"name": "Crystal",
+			"build": {}
+		}
+	]
+}
