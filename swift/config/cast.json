@@ -1,0 +1,12 @@
+{
+	"name": "cast",
+	"source": "https://github.com/randymarsh77/cast",
+	"downstream": [
+		{
+			"name": "Sockets",
+			"build": {
+				"travis": "randymarsh77/sockets"
+			}
+		}
+	]
+}
