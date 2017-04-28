@@ -1,0 +1,10 @@
+{
+	"name": "sockets",
+	"source": "https://github.com/randymarsh77/sockets",
+	"downstream": [
+		{
+			"name": "Crystal",
+			"build": {}
+		}
+	]
+}
