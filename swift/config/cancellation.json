@@ -1,9 +1,0 @@
-{
-	"name": "cancellation",
-	"source": "https://github.com/randymarsh77/cancellation",
-	"downstream": [
-		{
-			"name": "Crystal"
-		}
-	]
-}

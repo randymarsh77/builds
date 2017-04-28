@@ -1,9 +1,0 @@
-{
-	"name": "example",
-	"source": "https://github.com/randymarsh77/example",
-	"lastTriggered": "someHash",
-	"build": "script to execute on CI server that triggers the build",
-	"downstream": [
-		{ "name": "someOtherConfigName" }
-	]
-}
