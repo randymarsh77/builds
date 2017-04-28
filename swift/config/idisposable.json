@@ -1,0 +1,12 @@
+{
+	"name": "idisposable",
+	"source": "https://github.com/randymarsh77/idisposable",
+	"downstream": [
+		{
+			"name": "Sockets",
+			"build": {
+				"travis": "randymarsh77/sockets"
+			}
+		}
+	]
+}
