@@ -19,6 +19,12 @@
 			"build": {
 				"travis": "randymarsh77/bonjour"
 			}
+		},
+		{
+			"name": "PubSubCache",
+			"build": {
+				"travis": "randymarsh77/pubsubcache"
+			}
 		}
 	],
 	"upstream": [
