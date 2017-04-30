@@ -19,6 +19,12 @@
 			"build": {
 				"travis": "randymarsh77/crystal"
 			}
+		},
+		{
+			"name": "WKInterop",
+			"build": {
+				"travis": "randymarsh77/wkinterop"
+			}
 		}
 	]
 }
