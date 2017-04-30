@@ -1,0 +1,31 @@
+{
+	"name": "crystal",
+	"source": "https://github.com/randymarsh77/crystal",
+	"upstream": [
+		{
+			"name": "cancellation",
+			"sha": "d075f074a2d8af10f727a18fd74b7e852d955578"
+		},
+		{
+			"name": "cast",
+			"sha": "6acf5b4bcb37ebdcaba5c6778576b3e62bf7f7d3"
+		},
+		{
+			"name": "scope",
+			"sha": "9a49d0c8ea47dbef7da86f8162a888e2cc8cb260"
+		},
+		{
+			"name": "sockets",
+			"sha": "5e22e81292667220c25951b563d02cc1dbc7aaae"
+		},
+		{
+			"name": "streams",
+			"sha": "a2fbb8b3b2189a47321ae1bc6e4c8c04622f0248"
+		},
+		{
+			"name": "time",
+			"sha": "077a613929c4cc742c98eb796282085d96d2be97"
+		}
+	],
+	"downstream": []
+}
