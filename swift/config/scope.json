@@ -25,6 +25,12 @@
 			"build": {
 				"travis": "randymarsh77/pubsubcache"
 			}
+		},
+		{
+			"name": "Crystal",
+			"build": {
+				"travis": "randymarsh77/crystal"
+			}
 		}
 	],
 	"upstream": [
