@@ -8,5 +8,11 @@
 				"travis": "randymarsh77/sockets"
 			}
 		}
+	],
+	"upstream": [
+		{
+			"name": "idisposable",
+			"sha": "9c749fae401b53a55e86834d379733a2b06c49aa"
+		}
 	]
 }
