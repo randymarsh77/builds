@@ -7,6 +7,12 @@
 			"build": {
 				"travis": "randymarsh77/sockets"
 			}
+		},
+		{
+			"name": "Cancellation",
+			"build": {
+				"travis": "randymarsh77/cancellation"
+			}
 		}
 	],
 	"upstream": []
