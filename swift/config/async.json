@@ -37,6 +37,12 @@
 			"build": {
 				"travis": "randymarsh77/awaitables"
 			}
+		},
+		{
+			"name": "WKInterop",
+			"build": {
+				"travis": "randymarsh77/wkinterop"
+			}
 		}
 	]
 }
