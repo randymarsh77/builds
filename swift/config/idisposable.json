@@ -8,5 +8,6 @@
 				"travis": "randymarsh77/sockets"
 			}
 		}
-	]
+	],
+	"upstream": []
 }
