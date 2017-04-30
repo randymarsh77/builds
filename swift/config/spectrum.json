@@ -1,0 +1,15 @@
+{
+	"name": "spectrum",
+	"source": "https://github.com/randymarsh77/spectrum",
+	"upstream": [
+		{
+			"name": "streams",
+			"sha": "a2fbb8b3b2189a47321ae1bc6e4c8c04622f0248"
+		},
+		{
+			"name": "surge",
+			"sha": "02f99b4c43fd863671362eb627613406117efc7c"
+		}
+	],
+	"downstream": []
+}
