@@ -20,6 +20,12 @@
 			"build": {
 				"travis": "randymarsh77/asyncprocess"
 			}
+		},
+		{
+			"name": "Fetch",
+			"build": {
+				"travis": "randymarsh77/fetch"
+			}
 		}
 	]
 }
