@@ -19,6 +19,12 @@
 			"build": {
 				"travis": "randymarsh77/using"
 			}
+		},
+		{
+			"name": "WKInterop",
+			"build": {
+				"travis": "randymarsh77/wkinterop"
+			}
 		}
 	],
 	"upstream": []
