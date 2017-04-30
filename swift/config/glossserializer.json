@@ -1,0 +1,11 @@
+{
+	"name": "glossserializer",
+	"source": "https://github.com/randymarsh77/glossserializer",
+	"upstream": [
+		{
+			"name": "wkinterop",
+			"sha": "9679b0af062a3651202ab8703f7ce48350fccd09"
+		}
+	],
+	"downstream": []
+}
