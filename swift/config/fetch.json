@@ -1,0 +1,11 @@
+{
+	"name": "fetch",
+	"source": "https://github.com/randymarsh77/fetch",
+	"upstream": [
+		{
+			"name": "async",
+			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04"
+		}
+	],
+	"downstream": []
+}
