@@ -1,0 +1,23 @@
+{
+	"name": "Sockets",
+	"source": "https://github.com/randymarsh77/Sockets",
+	"upstream": [
+		{
+			"name": "cast",
+			"sha": "6acf5b4bcb37ebdcaba5c6778576b3e62bf7f7d3"
+		},
+		{
+			"name": "idisposable",
+			"sha": "1e421ec811016fadd6a595da1509e5d893792615"
+		},
+		{
+			"name": "scope",
+			"sha": "9a49d0c8ea47dbef7da86f8162a888e2cc8cb260"
+		},
+		{
+			"name": "time",
+			"sha": "077a613929c4cc742c98eb796282085d96d2be97"
+		}
+	],
+	"downstream": []
+}
