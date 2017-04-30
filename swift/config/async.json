@@ -1,0 +1,13 @@
+{
+	"name": "async",
+	"source": "https://github.com/randymarsh77/async",
+	"upstream": [],
+	"downstream": [
+		{
+			"name": "Bonjour",
+			"build": {
+				"travis": "randymarsh77/bonjour"
+			}
+		}
+	]
+}
