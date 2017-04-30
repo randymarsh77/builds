@@ -1,0 +1,13 @@
+{
+	"name": "pubsubcache",
+	"source": "https://github.com/randymarsh77/pubsubcache",
+	"upstream": [],
+	"downstream": [
+		{
+			"name": "InMemoryCache",
+			"build": {
+				"travis": "randymarsh77/inmemorycache"
+			}
+		}
+	]
+}
