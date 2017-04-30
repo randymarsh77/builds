@@ -7,6 +7,12 @@
 			"build": {
 				"travis": "randymarsh77/sockets"
 			}
+		},
+		{
+			"name": "Streams",
+			"build": {
+				"travis": "randymarsh77/streams"
+			}
 		}
 	],
 	"upstream": [
