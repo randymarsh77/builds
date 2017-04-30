@@ -1,0 +1,13 @@
+{
+	"name": "surge",
+	"source": "https://github.com/randymarsh77/surge",
+	"upstream": [],
+	"downstream": [
+		{
+			"name": "Spectrum",
+			"build": {
+				"travis": "randymarsh77/spectrum"
+			}
+		}
+	]
+}
