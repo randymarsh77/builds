@@ -1,7 +1,12 @@
 {
 	"name": "async",
 	"source": "https://github.com/randymarsh77/async",
-	"upstream": [],
+	"upstream": [
+		{
+			"name": "casync",
+			"sha": "b702fb7c6a91126b9e05fd49bfb29b2197e6a9d9"
+		}
+	],
 	"downstream": [
 		{
 			"name": "Bonjour",
