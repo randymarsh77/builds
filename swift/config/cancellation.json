@@ -1,0 +1,11 @@
+{
+	"name": "cancellation",
+	"source": "https://github.com/randymarsh77/cancellation",
+	"upstream": [
+		{
+			"name": "idisposable",
+			"sha": "1e421ec811016fadd6a595da1509e5d893792615"
+		}
+	],
+	"downstream": []
+}
