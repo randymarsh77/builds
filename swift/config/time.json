@@ -20,5 +20,6 @@
 				"travis": "randymarsh77/crystal"
 			}
 		}
-	]
+	],
+	"upstream": []
 }
