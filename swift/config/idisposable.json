@@ -13,6 +13,12 @@
 			"build": {
 				"travis": "randymarsh77/cancellation"
 			}
+		},
+		{
+			"name": "Using",
+			"build": {
+				"travis": "randymarsh77/using"
+			}
 		}
 	],
 	"upstream": []
