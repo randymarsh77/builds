@@ -1,10 +1,24 @@
 {
-	"name": "asyncprocess",
+	"name": "AsyncProcess",
 	"source": "https://github.com/randymarsh77/asyncprocess",
 	"upstream": [
 		{
-			"name": "async",
-			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04"
+			"name": "Async",
+			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04",
+			"url": "https://github.com/randymarsh77/async",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Gloss",
+			"sha": "e45facba610ceefd4796c264e0989d1947102e62",
+			"url": "https://github.com/hkellaway/gloss",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": []
