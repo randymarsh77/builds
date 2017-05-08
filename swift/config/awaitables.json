@@ -1,22 +1,42 @@
 {
-	"name": "awaitables",
+	"name": "Awaitables",
 	"source": "https://github.com/randymarsh77/awaitables",
 	"upstream": [
 		{
-			"name": "async",
-			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04"
+			"name": "Async",
+			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04",
+			"url": "https://github.com/randymarsh77/async",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "cancellation",
-			"sha": "d075f074a2d8af10f727a18fd74b7e852d955578"
+			"name": "Cancellation",
+			"sha": "d075f074a2d8af10f727a18fd74b7e852d955578",
+			"url": "https://github.com/randymarsh77/cancellation",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "streams",
-			"sha": "a2fbb8b3b2189a47321ae1bc6e4c8c04622f0248"
+			"name": "Streams",
+			"sha": "a2fbb8b3b2189a47321ae1bc6e4c8c04622f0248",
+			"url": "https://github.com/randymarsh77/streams",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "time",
-			"sha": "077a613929c4cc742c98eb796282085d96d2be97"
+			"name": "Time",
+			"sha": "077a613929c4cc742c98eb796282085d96d2be97",
+			"url": "https://github.com/randymarsh77/time",
+			"version": {
+				"lowerBound": "2.0.0",
+				"upperBound": "2.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": []
