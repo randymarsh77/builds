@@ -1,14 +1,24 @@
 {
-	"name": "bonjour",
+	"name": "Bonjour",
 	"source": "https://github.com/randymarsh77/bonjour",
 	"upstream": [
 		{
-			"name": "async",
-			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04"
+			"name": "Async",
+			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04",
+			"url": "https://github.com/randymarsh77/async",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "scope",
-			"sha": "9a49d0c8ea47dbef7da86f8162a888e2cc8cb260"
+			"name": "Scope",
+			"sha": "9a49d0c8ea47dbef7da86f8162a888e2cc8cb260",
+			"url": "https://github.com/randymarsh77/scope",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": [
