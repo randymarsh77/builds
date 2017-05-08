@@ -54,6 +54,12 @@
 			"build": {
 				"travis": "randymarsh77/crystal"
 			}
+		},
+		{
+			"name": "Mesh",
+			"build": {
+				"travis": "randymarsh77/mesh"
+			}
 		}
 	]
 }
