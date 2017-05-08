@@ -9,12 +9,6 @@
 	],
 	"downstream": [
 		{
-			"name": "Awaitables",
-			"build": {
-				"travis": "randymarsh77/awaitables"
-			}
-		},
-		{
 			"name": "Crystal",
 			"build": {
 				"travis": "randymarsh77/crystal"
