@@ -2,5 +2,12 @@
 	"name": "CAsync",
 	"source": "https://github.com/randymarsh77/casync",
 	"upstream": [],
-	"downstream": []
+	"downstream": [
+		{
+			"name": "Async",
+			"build": {
+				"travis": "randymarsh77/async"
+			}
+		}
+	]
 }
