@@ -48,5 +48,12 @@
 			}
 		}
 	],
-	"downstream": []
+	"downstream": [
+		{
+			"name": "Crystal",
+			"build": {
+				"travis": "randymarsh77/crystal"
+			}
+		}
+	]
 }
