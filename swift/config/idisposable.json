@@ -25,6 +25,12 @@
 			"build": {
 				"travis": "randymarsh77/wkinterop"
 			}
+		},
+		{
+			"name": "Scope",
+			"build": {
+				"travis": "randymarsh77/scope"
+			}
 		}
 	],
 	"upstream": []
