@@ -1,10 +1,15 @@
 {
-	"name": "async",
+	"name": "Async",
 	"source": "https://github.com/randymarsh77/async",
 	"upstream": [
 		{
-			"name": "casync",
-			"sha": "b702fb7c6a91126b9e05fd49bfb29b2197e6a9d9"
+			"name": "CAsync",
+			"sha": "b702fb7c6a91126b9e05fd49bfb29b2197e6a9d9",
+			"url": "https://github.com/randymarsh77/casync",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": [
