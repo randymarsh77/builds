@@ -27,12 +27,6 @@
 			}
 		},
 		{
-			"name": "Fetch",
-			"build": {
-				"travis": "randymarsh77/fetch"
-			}
-		},
-		{
 			"name": "Awaitables",
 			"build": {
 				"travis": "randymarsh77/awaitables"
