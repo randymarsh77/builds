@@ -18,6 +18,12 @@
 			"build": {
 				"travis": "randymarsh77/awaitables"
 			}
+		},
+		{
+			"name": "Mesh",
+			"build": {
+				"travis": "randymarsh77/mesh"
+			}
 		}
 	]
 }
