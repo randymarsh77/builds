@@ -1,10 +1,15 @@
 {
-	"name": "pubsubcache",
+	"name": "PubSubCache",
 	"source": "https://github.com/randymarsh77/pubsubcache",
 	"upstream": [
 		{
-			"name": "scope",
-			"sha": "9a49d0c8ea47dbef7da86f8162a888e2cc8cb260"
+			"name": "Scope",
+			"sha": "9a49d0c8ea47dbef7da86f8162a888e2cc8cb260",
+			"url": "https://github.com/randymarsh77/scope",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": [
