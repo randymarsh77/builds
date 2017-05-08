@@ -1,22 +1,42 @@
 {
-	"name": "mesh",
+	"name": "Mesh",
 	"source": "https://github.com/randymarsh77/mesh",
 	"upstream": [
 		{
-			"name": "async",
-			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04"
+			"name": "Async",
+			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04",
+			"url": "https://github.com/randymarsh77/async",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "bonjour",
-			"sha": "f1e424299e8a134573fc7d798734a155126f61e7"
+			"name": "Bonjour",
+			"sha": "f1e424299e8a134573fc7d798734a155126f61e7",
+			"url": "https://github.com/randymarsh77/bonjour",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "streams",
-			"sha": "a2fbb8b3b2189a47321ae1bc6e4c8c04622f0248"
+			"name": "Streams",
+			"sha": "a2fbb8b3b2189a47321ae1bc6e4c8c04622f0248",
+			"url": "https://github.com/randymarsh77/streams",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "sockets",
-			"sha": "5e22e81292667220c25951b563d02cc1dbc7aaae"
+			"name": "Sockets",
+			"sha": "5e22e81292667220c25951b563d02cc1dbc7aaae",
+			"url": "https://github.com/randymarsh77/sockets",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": []
