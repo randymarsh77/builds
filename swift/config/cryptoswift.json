@@ -1,0 +1,13 @@
+{
+	"name": "CryptoSwift",
+	"source": "https://github.com/krzyzanowskim/CryptoSwift",
+	"upstream": [],
+	"downstream": [
+		{
+			"name": "Sockets",
+			"build": {
+				"travis": "randymarsh77/sockets"
+			}
+		}
+	]
+}
