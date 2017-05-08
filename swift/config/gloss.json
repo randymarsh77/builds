@@ -1,0 +1,13 @@
+{
+	"name": "Gloss",
+	"source": "https://github.com/hkellaway/gloss",
+	"upstream": [],
+	"downstream": [
+		{
+			"name": "AsyncProcess",
+			"build": {
+				"travis": "randymarsh77/asyncprocess"
+			}
+		}
+	]
+}
