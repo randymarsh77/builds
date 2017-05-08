@@ -1,10 +1,15 @@
 {
-	"name": "inmemorycache",
+	"name": "InMemoryCache",
 	"source": "https://github.com/randymarsh77/inmemorycache",
 	"upstream": [
 		{
-			"name": "pubsubcache",
-			"sha": "896fe11f4839e64923e05e19429a938b3bbc54c9"
+			"name": "PubSubCache",
+			"sha": "896fe11f4839e64923e05e19429a938b3bbc54c9",
+			"url": "https://github.com/randymarsh77/pubsubcache",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": []
