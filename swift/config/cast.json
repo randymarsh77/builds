@@ -1,13 +1,6 @@
 {
 	"name": "cast",
 	"source": "https://github.com/randymarsh77/cast",
-	"downstream": [
-		{
-			"name": "Crystal",
-			"build": {
-				"travis": "randymarsh77/crystal"
-			}
-		}
-	],
+	"downstream": [],
 	"upstream": []
 }
