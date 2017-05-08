@@ -1,10 +1,24 @@
 {
-	"name": "glossserializer",
+	"name": "GlossSerializer",
 	"source": "https://github.com/randymarsh77/glossserializer",
 	"upstream": [
 		{
-			"name": "wkinterop",
-			"sha": "9679b0af062a3651202ab8703f7ce48350fccd09"
+			"name": "WKInterop",
+			"sha": "9679b0af062a3651202ab8703f7ce48350fccd09",
+			"url": "https://github.com/randymarsh77/wkinterop",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Gloss",
+			"sha": "e45facba610ceefd4796c264e0989d1947102e62",
+			"url": "https://github.com/hkellaway/gloss",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": []
