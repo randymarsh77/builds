@@ -42,6 +42,12 @@
 			"build": {
 				"travis": "randymarsh77/wkinterop"
 			}
+		},
+		{
+			"name": "Fetch",
+			"build": {
+				"travis": "randymarsh77/fetch"
+			}
 		}
 	]
 }
