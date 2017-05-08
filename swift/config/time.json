@@ -3,12 +3,6 @@
 	"source": "https://github.com/randymarsh77/time",
 	"downstream": [
 		{
-			"name": "Sockets",
-			"build": {
-				"travis": "randymarsh77/sockets"
-			}
-		},
-		{
 			"name": "Crystal",
 			"build": {
 				"travis": "randymarsh77/crystal"
