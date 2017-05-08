@@ -7,6 +7,12 @@
 			"build": {
 				"travis": "randymarsh77/crystal"
 			}
+		},
+		{
+			"name": "Awaitables",
+			"build": {
+				"travis": "randymarsh77/awaitables"
+			}
 		}
 	],
 	"upstream": []
