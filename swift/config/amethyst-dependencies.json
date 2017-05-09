@@ -1,6 +1,151 @@
 {
 	"name": "Amethyst-Dependencies",
 	"source": "https://github.com/randymarsh77/amethyst.git",
-	"upstream": [],
+	"upstream": [
+		{
+			"name": "Async",
+			"sha": "9dd7f9686461ee343a8b7685058bb1c5ce4d5b04",
+			"url": "https://github.com/randymarsh77/async",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "AsyncProcess",
+			"sha": "2493b1f388fd4ef42e5aca387ae6a3f0f6ac954f",
+			"url": "https://github.com/randymarsh77/asyncprocess",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Awaitables",
+			"sha": "63280bc5ca196fc8eff302c2986f8d22ab102bc7",
+			"url": "https://github.com/randymarsh77/awaitables",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Bonjour",
+			"sha": "f1e424299e8a134573fc7d798734a155126f61e7",
+			"url": "https://github.com/randymarsh77/bonjour",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Crystal",
+			"sha": "77c6ff2f4fa53042d499b13675e95332a0cc7324",
+			"url": "https://github.com/randymarsh77/crystal",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Fetch",
+			"sha": "de97378ee095d25892ce6db73c153e037e4b0c7b",
+			"url": "https://github.com/randymarsh77/fetch",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "iTunes",
+			"sha": "0f57704ace0faa3a2c4b0fd9a6862f80fbacc196",
+			"url": "https://github.com/randymarsh77/itunes",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "InMemoryCache",
+			"sha": "f2c7e3b7eafac828b79620ccf5626f7a2bba5aeb",
+			"url": "https://github.com/randymarsh77/inmemorycache",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Spectrum",
+			"sha": "a83ce84659fe2c8caa696b08a18c9d2326e0ec5e",
+			"url": "https://github.com/randymarsh77/spectrum",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Time",
+			"sha": "077a613929c4cc742c98eb796282085d96d2be97",
+			"url": "https://github.com/randymarsh77/time",
+			"version": {
+				"lowerBound": "2.0.0",
+				"upperBound": "2.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Using",
+			"sha": "b346f42329b2c3c33a89929c3cf54696037c2ab4",
+			"url": "https://github.com/randymarsh77/using",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "WKInterop",
+			"sha": "9679b0af062a3651202ab8703f7ce48350fccd09",
+			"url": "https://github.com/randymarsh77/wkinterop",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "GlossSerializer",
+			"sha": "f3f4cfcc14ec7f2890d2f28628d8873651ec8371",
+			"url": "https://github.com/randymarsh77/wkinterop-gloss",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Gloss",
+			"sha": "e45facba610ceefd4796c264e0989d1947102e62",
+			"url": "https://github.com/hkellaway/gloss",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Redbird",
+			"sha": "ff6930abf6f64d371117ac1821ade8aa9b857365",
+			"url": "https://github.com/vapor/redbird",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Vapor",
+			"sha": "c5e74759785c7b8b0956c20111dc0a28856d8bbf",
+			"url": "https://github.com/vapor/vapor",
+			"version": {
+				"lowerBound": "1.5.0",
+				"upperBound": "1.5.9223372036854775807"
+			}
+		}
+	],
 	"downstream": []
 }
