@@ -24,6 +24,12 @@
 			"build": {
 				"travis": "randymarsh77/mesh"
 			}
+		},
+		{
+			"name": "Spectrum",
+			"build": {
+				"travis": "randymarsh77/spectrum"
+			}
 		}
 	]
 }
