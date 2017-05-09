@@ -33,6 +33,12 @@
 			"build": {
 				"travis": "randymarsh77/amethyst"
 			}
+		},
+		{
+			"name": "Amethyst-MetaServer",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
 		}
 	]
 }
