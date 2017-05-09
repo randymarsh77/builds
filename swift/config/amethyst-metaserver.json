@@ -1,0 +1,61 @@
+{
+	"name": "Amethyst-MetaServer",
+	"source": "https://github.com/randymarsh77/amethyst.git",
+	"upstream": [
+		{
+			"name": "Bonjour",
+			"sha": "f1e424299e8a134573fc7d798734a155126f61e7",
+			"url": "https://github.com/randymarsh77/bonjour",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "iTunes",
+			"sha": "0f57704ace0faa3a2c4b0fd9a6862f80fbacc196",
+			"url": "https://github.com/randymarsh77/itunes",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "InMemoryCache",
+			"sha": "f2c7e3b7eafac828b79620ccf5626f7a2bba5aeb",
+			"url": "https://github.com/randymarsh77/inmemorycache",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Using",
+			"sha": "b346f42329b2c3c33a89929c3cf54696037c2ab4",
+			"url": "https://github.com/randymarsh77/using",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Redbird",
+			"sha": "ff6930abf6f64d371117ac1821ade8aa9b857365",
+			"url": "https://github.com/vapor/redbird",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Vapor",
+			"sha": "c5e74759785c7b8b0956c20111dc0a28856d8bbf",
+			"url": "https://github.com/vapor/vapor",
+			"version": {
+				"lowerBound": "1.5.0",
+				"upperBound": "1.5.9223372036854775807"
+			}
+		}
+	],
+	"downstream": []
+}
