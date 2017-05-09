@@ -27,6 +27,12 @@
 			"build": {
 				"travis": "randymarsh77/amethyst"
 			}
+		},
+		{
+			"name": "Amethyst-CLI",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
 		}
 	]
 }
