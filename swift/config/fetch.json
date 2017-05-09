@@ -12,5 +12,12 @@
 			}
 		}
 	],
-	"downstream": []
+	"downstream": [
+		{
+			"name": "Amethyst-Dependencies",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
+		}
+	]
 }
