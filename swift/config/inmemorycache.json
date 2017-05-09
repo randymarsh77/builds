@@ -12,5 +12,12 @@
 			}
 		}
 	],
-	"downstream": []
+	"downstream": [
+		{
+			"name": "Amethyst-MetaServer",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
+		}
+	]
 }
