@@ -39,6 +39,12 @@
 			"build": {
 				"travis": "randymarsh77/amethyst"
 			}
+		},
+		{
+			"name": "Amethyst-Dependencies",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
 		}
 	]
 }
