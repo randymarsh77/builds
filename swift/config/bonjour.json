@@ -27,6 +27,12 @@
 			"build": {
 				"travis": "randymarsh77/mesh"
 			}
+		},
+		{
+			"name": "Amethyst-ContentServer",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
 		}
 	]
 }
