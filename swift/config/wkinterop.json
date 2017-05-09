@@ -45,6 +45,12 @@
 			"build": {
 				"travis": "randymarsh77/wkinterop-gloss"
 			}
+		},
+		{
+			"name": "Amethyst-Dependencies",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
 		}
 	]
 }
