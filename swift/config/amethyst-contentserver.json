@@ -1,0 +1,43 @@
+{
+	"name": "Amethyst-ContentServer",
+	"source": "https://github.com/randymarsh77/amethyst.git",
+	"upstream": [
+		{
+			"name": "AsyncProcess",
+			"sha": "2493b1f388fd4ef42e5aca387ae6a3f0f6ac954f",
+			"url": "https://github.com/randymarsh77/asyncprocess",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Bonjour",
+			"sha": "f1e424299e8a134573fc7d798734a155126f61e7",
+			"url": "https://github.com/randymarsh77/bonjour",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Crystal",
+			"sha": "77c6ff2f4fa53042d499b13675e95332a0cc7324",
+			"url": "https://github.com/randymarsh77/crystal",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
+		},
+		{
+			"name": "Using",
+			"sha": "b346f42329b2c3c33a89929c3cf54696037c2ab4",
+			"url": "https://github.com/randymarsh77/using",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
+		}
+	],
+	"downstream": []
+}
