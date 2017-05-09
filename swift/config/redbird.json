@@ -1,0 +1,13 @@
+{
+	"name": "Redbird",
+	"source": "https://github.com/vapor/redbird",
+	"upstream": [],
+	"downstream": [
+		{
+			"name": "Amethyst-MetaServer",
+			"build": {
+				"travis": "randymarsh77/amethyst"
+			}
+		}
+	]
+}
