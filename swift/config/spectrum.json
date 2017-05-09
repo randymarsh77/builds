@@ -1,14 +1,24 @@
 {
-	"name": "spectrum",
+	"name": "Spectrum",
 	"source": "https://github.com/randymarsh77/spectrum",
 	"upstream": [
 		{
-			"name": "streams",
-			"sha": "a2fbb8b3b2189a47321ae1bc6e4c8c04622f0248"
+			"name": "Streams",
+			"sha": "b0f007dee0118563246e6de3c9abd0825153d470",
+			"url": "https://github.com/randymarsh77/streams",
+			"version": {
+				"lowerBound": "0.0.0",
+				"upperBound": "0.9223372036854775807.9223372036854775807"
+			}
 		},
 		{
-			"name": "surge",
-			"sha": "02f99b4c43fd863671362eb627613406117efc7c"
+			"name": "Surge",
+			"sha": "02f99b4c43fd863671362eb627613406117efc7c",
+			"url": "https://github.com/randymarsh77/surge",
+			"version": {
+				"lowerBound": "1.0.0",
+				"upperBound": "1.9223372036854775807.9223372036854775807"
+			}
 		}
 	],
 	"downstream": []
